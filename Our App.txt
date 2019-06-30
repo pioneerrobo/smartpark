@@ -1,0 +1,70 @@
+<!Doctype:html>
+<html>
+<head>
+ <link rel="icon" href="robo.png">
+<title> Our app</title>
+ <link rel="stylesheet" href="style.css">
+ <style>  
+  img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+  }
+  
+  img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  } 
+  
+  <a href="paris.jpg">
+   <img src="paris.jpg" alt="Paris">
+  </a>
+ </style>
+</head>
+<body>
+<div class="topnav">
+  <a href="index.html">Home</a>
+   <a class="active"href="Our App.html">Our App</a>
+   <a href="Parking assistant-About us.html">About us</a>
+   <a href="Sponsors.html">Sponsors</a>
+  </div>
+  &nbsp;
+<p align=center style='text-align:center'><span style='font-size:13.5pt'>Αρχικά
+  δίνεις τις διαστάσεις του αυτοκινήτου σου στην περιοχή "Enter your car size" και με το πάτημα του κουμπιού "Find me a spot" η αναζήτηση στη βάση δεδομένων εμφανίζει στην οθόνη σου<o:p></o:p></span></p>
+<p align=center style='text-align:center'><span style='font-size:13.5pt'>θέση/θέσεις
+για παρκάρισμα, μετατρέποντας έναν καθημερινό πονοκέφαλο σε μια απλή
+διαδικασία, γλιτώνοντας χρόνο, κόπο και εξοικονομώντας ενέργεια.<o:p></o:p></span></p>
+<p align=center style='text-align:center'><span style='font-size:13.5pt'>Όταν
+επιλέξεις μια από τις διαθέσιμες θέσεις αυτή σημειώνεται στη βάση δεδομένων ως
+ΜΗ διαθέσιμη και δεν εμφανίζεται στις αναζητήσεις άλλων χρηστών,<o:p></o:p></span></p>
+<p align=center style='text-align:center'><span style='font-size:13.5pt'>Όταν ξεπαρκάρεις
+πατάς το πλήκτρο </span><span lang=EN-US style='font-size:13.5pt;mso-ansi-language:
+EN-US'>Unpark</span><span lang=EN-US style='font-size:13.5pt'> </span><span
+style='font-size:13.5pt'>και έτσι η θέση είναι και πάλι διαθέσιμη στους άλλους χρήστες
+της εφαρμογής.<o:p></o:p></span></p>
+</body>
+ <body>
+  <center>
+   &nbsp;
+   <P><img src="IMG_20190519_120147.jpg" width="400" height="600"></P>
+   <p>
+   <a href="SMART_PARK_CLIENT_APP_FINAL_rev_2.apk">Download App</a>
+   </p>
+  </center>
+ </body>
+  
+<body>
+  <center>
+   &nbsp;
+    <p align=center style='text-align:center'><span style='font-size:13.5pt'>You enter your cars dimensions in the "Enter your car size" area and by clicking on the "Find me a spot" button, the search starts and when the process is done <o:p></o:p></span></p>
+    <p align=center style='text-align:center'><span style='font-size:13.5pt'> it displays on your screen the available positions / places for parking, turning a daily headache into a simple process, saving time, effort and energy.<o:p></o:p></span></p>
+    <p align=center style='text-align:center'><span style='font-size:13.5pt'> When selecting one of the available positions this position gets marked in the database as inavailable and is not appearing in other users' searches, <o:p></o:p></span></p>
+    <p align=center style='text-align:center'><span style='font-size:13.5pt'>When you press  the key "Unpark" the location is again available to other application users.<o:p></o:p></span></p>
+  </center>
+  &nbsp;
+  <center> 
+   <p align=center style='text-align:center'><span style='font-size:13.5pt'><H2>Here's a video of the whole system operating</H2><o:p></o:p></span></p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/J8wFYhp8Hfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </center>
+  </body>
+</html>

@@ -1,0 +1,87 @@
+<!Doctype:html>
+<html>
+ <head>
+  <link rel="icon" href="robo.png">
+  <Title> Home</Title>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <div class="topnav">
+   <a class=“active” href="index.html">Home</a>
+   <a href="Our App.html">Our App</a>
+   <a href="Parking assistant-About us.html">About us</a>
+   <a href="Sponsors.html">Sponsors</a>
+  </div>
+   <center><H1><font size="20" face="times new roman serif">Home</font></H1>
+   <H2><font size="6" face="times new roman serif">Μια σύντομη εισαγωγή στην εφαρμογή μας</font></H2>
+   <P>Βαρέθηκες να σπαταλάς το χρόνο σου για να βρείς μια θέση παρκινγκ μετά από μια δύσκολη μερα?
+   <P>Δε θα ήταν τέλειο αν με το πάτημα ενός κουμπιού έβρησκες την κατάλληλη θέση παρκινγκ?
+   <P>Καταφέραμε,λοιπόν, να φτιάξουμε μία εφαρμογή στο κινητό που θα σε βοήθα να βρίσκεις με 
+   <P>το πάτημα ενός κουμπιού την θέση παρκινγκ στα μέτρα του αυτοκινήτου σου. Καταπληκτικό έτσι?
+   <P>Το καλύτερο είναι ότι είναι απλή στην χρήση και απευθύνεται και σε ΑΜΕΑ. Τι περιμένεις?
+   <P>Ανακάλυψέ την τώρα!
+   
+   <H2><font size="6" face="times new roman serif">A brief introduction to our App</font></H2>
+   <P>Bored of wasting your time finding a parking spot when you return home after a long day?
+   <P>Well... we've come up with an application that shows you the nearest empty parking slot
+   <P>that fits you car. Amazing isn't it? And what is even more amazing is that you can do it easily
+   <P>with only one tap on your phone! Also, it features special parking spots for people with 
+   <P>Disabbility. What are you waiting for? Discover it!
+    
+   &nbsp;
+   <p>
+    &nbsp;
+   </p>
+   <p>
+   <tr>
+    <td>
+     <img src="robo.jpg" width="250" height="250">
+    </td>
+   </tr>
+   <tr>
+    <td>
+     <img src="log.png" width="250" height="250">
+    </td>
+   </tr>
+   </p>
+   <p>
+    &nbsp;
+   </p>
+   <p>
+    &nbsp;
+   </p>
+   <p>
+    &nbsp;
+   </p>
+   <p>
+    &nbsp;
+   </p>
+   </center>
+ </body>
+ <body>
+  <center>
+   &nbsp;
+   <H2>Our Social Media</H2>
+   <p>
+    <tr>
+     <th>
+        <a href="https://www.instagram.com/pioneerroboticsteam1527/" target="_blank">
+       <img src="idffmages.jfif" alt="Instagram Link" width="35" lenght="35">
+      </a>
+     </th>
+     <th>
+        <a href="https://web.facebook.com/PioNeer-Robotics-Team-2112557612301058/" target="_blank">
+       <img src="facebook.png" alt="Facebook Link" width="35" lenght="35">
+      </a>
+     </th>
+     <th>                                                                  
+        <a href="https://twitter.com/piorobteam" target="_blank">
+       <img src="twitter.jpg" alt="Twitter Link" width="35" lenght="35">
+      </a>
+     </th>
+    </tr>
+   </p>
+  </center>
+ </body>
+ </a>
+</html>

@@ -1,0 +1,31 @@
+<!Doctype:html>
+<html>
+<head>
+  <link rel="icon" href="robo.png">
+<title> Sponsors </title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="topnav">
+   <a href="index.html">Home</a>
+   <a href="Our App.html">Our App</a>
+   <a href="Parking assistant-About us.html">About us</a>
+   <a class=“active” href="Sponsors.html">Sponsors</a>
+  </div>
+
+<body>
+  <center>
+  <p align=center style='text-align:center'><span style='font-size:12pt'><H2> Για να πραγματοποιηθεί αυτό το project χρειάστηκαν χορηγοί. Αυτοί είναι:</H2> </span></p>
+  <p align=center style='text-align:center'><span style='font-size:12pt'><H2>In order for this project to complete, we needed some sponsors. Those sponsors are:</H2> </span></p>
+  </center>
+  <p align=center style='text-align:center'><span style='font-size:11pt'> Γιάννης Κωστόπουλος απο Nettop ο οποίος μας χορήγησε το Raspberry Pi 3 Model B+ και διάφορα περιφεριακά.</span></p>
+  <p align=center style='text-align:center'><span style='font-size:11pt'> Giannis Kostopoulos from Nettop who gave us an Raspberry Pi3 Model B+ and various peripherals.</span></P>
+  <center><img src="65372043_421370541782873_2711941573028872192_n.png" width="400" height="150"></center>
+  <center> <a href="https://nettop.gr/" target="_blank">Nettop</a>
+  &nbsp;
+  <p align=center style='text-align:center'><span style='font-size:11pt'> Κουμούσης Δημήτρης που μας χορήγησε τους μουσαμαδες για την προβολή του κώδικα στο περίπτερό μας.  </span></p>
+   <p align=center style='text-align:center'><span style='font-size:11pt'> Koumousis Dimitris who gave us 3 pieces of canvas for the exhibition of our code in our exhibition site. </span></p> 
+   <center><img src="20190509_003723.png" width="400" height="200"></center>
+  <center> <a href="https://www.facebook.com/%CE%94%CE%B7%CE%BC%CE%B7%CF%84%CF%81%CE%B7%CF%82-%CE%9A%CE%BF%CF%85%CE%BC%CE%BF%CF%85%CF%83%CE%B7%CF%82-%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%83%CE%B9%CE%B1%CE%BA%CE%B5%CF%82-%CE%9C%CE%BF%CE%BD%CF%84%CE%B5%CF%81%CE%BD%CE%B5%CF%82-%CE%95%CF%80%CE%B9%CE%B3%CF%81%CE%B1%CF%86%CE%B5%CF%82-1074571649249963/" target="_blank">Facebook Page</a> </center>
+</body>
+</html>
